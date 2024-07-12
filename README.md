@@ -7,7 +7,7 @@ Desenvolvedor Full Stack especializado em .NET, Angular,TypeScript. Experiência
 - 🌱 Atualmente tenho me dedicado bastante no Azure Pipeline
 - 💬 Pergunte-me sobre **.NET, Angular, TypeScript, Azure DevOps.
 - 📫 Como me encontrar: pablobf4@gmail.com
-- ⚡ Curiosidade: Amo jogar xadrez : Chess.com PabloCaricio
+- ⚡ Curiosidade: Amo jogar xadrez  Chess.com PabloCaricio
 
 ## Linguagens e Ferramentas
 
