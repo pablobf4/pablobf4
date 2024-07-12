@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Desenvolvedor Full Stack especializado em .NET, Angular e TypeScript. Experiência em desenvolver aplicações web robustas, configurar pipelines de CI/CD com Azure DevOps e gerenciar projetos.
+Desenvolvedor Full Stack especializado em .NET, Angular,TypeScript. Experiência em desenvolver aplicações web robustas, configurar pipelines de CI/CD com Azure DevOps e gerenciar projetos.
 
 - 🌱 Atualmente tenho me dedicado bastante no Azure Pipeline
 - 💬 Pergunte-me sobre **.NET, Angular, TypeScript, Azure DevOps, Redmine**
