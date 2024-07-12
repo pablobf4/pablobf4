@@ -30,8 +30,6 @@ Desenvolvedor Full Stack especializado em .NET, Angular,TypeScript. Experiência
   - https://www.credly.com/badges/48bb653b-138a-43df-b3a1-
 dac4d379f960/public_url
 
-## Ferramentas:
-
   ## Linguagem:
   • C# (visual studio 2022)
   • PYTHON (visual code)
@@ -58,8 +56,11 @@ dac4d379f960/public_url
   • MicrosServiços
   • Monolitos
   • Mensagens:
+
+  ## Mensagens
   • RabbitMQ
-  • Clound
+
+  ## Clound
   • AZURE
  
   ## Front:
@@ -68,7 +69,9 @@ dac4d379f960/public_url
   • JavaScript
   • Boostrap
   • Blazor
-  • Repositório
+  • Angular/typescript
+
+  ## Repositorios:
   • GitHub
   • GitLab
   • Bitbucket
