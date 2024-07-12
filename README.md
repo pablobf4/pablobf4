@@ -1,13 +1,12 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou Pablo Caricio 👋
 
 ## Sobre Mim
 
 Desenvolvedor Full Stack especializado em .NET, Angular e TypeScript. Experiência em desenvolver aplicações web robustas, configurar pipelines de CI/CD com Azure DevOps e gerenciar projetos com Redmine.
 
-- 🌱 Atualmente estou aprendendo **[tecnologias ou ferramentas específicas]**
-- 👯 Estou procurando colaborar em **[tipos de projetos ou áreas]**
+- 🌱 Atualmente tenho me dedicado bastante no Azure Pipeline
 - 💬 Pergunte-me sobre **.NET, Angular, TypeScript, Azure DevOps, Redmine**
-- 📫 Como me encontrar: **[seu email]**
+- 📫 Como me encontrar: pablobf4@gmail.com
 - ⚡ Curiosidade: **[algo interessante sobre você]**
 
 ## Linguagens e Ferramentas
