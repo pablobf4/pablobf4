@@ -18,7 +18,7 @@ Desenvolvedor Full Stack especializado em .NET, Angular,TypeScript. Experiência
 
 ## Projetos Destacados
 
-- [Projeto 1](https://github.com/pablobf4/Loja_MicroServico): Projeto basico para estudos numa estrutura microserviço.
+- [Projeto 1](https://github.com/pablobf4/Loja_MicroServico): Projeto em MicroServiço basico para estudos.
 - [Projeto 2](https://github.com/pablobf4/Projeto-Teste): Projeto basico para estudos Angular e .Net.
 - [Projeto 3](https://github.com/seuusuario/projeto3): Descrição breve do projeto 3.
 
