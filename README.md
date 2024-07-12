@@ -28,9 +28,51 @@ Desenvolvedor Full Stack especializado em .NET, Angular,TypeScript. Experiência
 - AZ-900 : Microsoft Azure Fundamentals
   - Emitido por: Microsoft
   - https://www.credly.com/badges/48bb653b-138a-43df-b3a1-
-dac4d379f960/public_url(URL)
+dac4d379f960/public_url
 
+## Ferramentas 
+
+  • Linguagem:
+  • C# (visual studio 2022)
+  • PYTHON (visual code)
+  • PLSQL, (plsql developer)
+  • SQL
+  • NodeJs(JavaScript),(visual code)
+  • PHP, (visual code)
+  • Frameworks:
+  • .NET CORE
+  • ASP NET MVC
+  • ASP NET WebForms
+  • Windows Forms
+  • FastAPI
+  • Codeigniter
+  • Segurança:
+  • Identity Server 4 duende
+  • ORM:
+  • EntityFramework
+  • Nhibernate
+  • SQL Alchemy/SQL Model
+  
+  • Arquitetura:
+  • MicrosServiços
+  • Monolitos
+  • Mensagens:
+  • RabbitMQ
+  • Clound
+  • AZURE
+  • Front:
+  • HTML5
+  • CSS
+  • JavaScript
+  • Boostrap
+  • Blazor
+  • Repositório
+  • GitHub
+  • GitLab
+  • Bitbucket
+  • Banco
+
+SQLSERVER,ORACLE
 ## Conecte-se Comigo
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-caricio)
 
