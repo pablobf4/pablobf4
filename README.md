@@ -5,7 +5,7 @@
 Desenvolvedor Full Stack especializado em .NET, Angular,TypeScript. Experiência em desenvolver aplicações web robustas, configurar pipelines de CI/CD com Azure DevOps e gerenciar projetos.
 
 - 🌱 Atualmente tenho me dedicado bastante no Azure Pipeline
-- 💬 Pergunte-me sobre **.NET, Angular, TypeScript, Azure DevOps, Redmine**
+- 💬 Pergunte-me sobre **.NET, Angular, TypeScript, Azure DevOps.
 - 📫 Como me encontrar: pablobf4@gmail.com
 - ⚡ Curiosidade: **[algo interessante sobre você]**
 
@@ -18,7 +18,7 @@ Desenvolvedor Full Stack especializado em .NET, Angular,TypeScript. Experiência
 
 ## Projetos Destacados
 
-- [Projeto 1](https://github.com/seuusuario/projeto1): Descrição breve do projeto 1.
+- [Projeto 1](https://github.com/pablobf4/Loja_MicroServico): Projeto basico para estudos numa estrutura microserviço.
 - [Projeto 2](https://github.com/seuusuario/projeto2): Descrição breve do projeto 2.
 - [Projeto 3](https://github.com/seuusuario/projeto3): Descrição breve do projeto 3.
 
