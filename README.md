@@ -25,8 +25,8 @@ Desenvolvedor Full Stack especializado em .NET, Angular,TypeScript. Experiência
 
 - AZ-900 : Microsoft Azure Fundamentals
   - Emitido por: Microsoft
-  - https://www.credly.com/badges/48bb653b-138a-43df-b3a1-
-dac4d379f960/public_url
+  - https://www.credly.com/badges/48bb653b-138a-43df-b3a1-dac4d379f960/public_url
+
 
   ## Linguagem:
   • C# (visual studio 2022)
