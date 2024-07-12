@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Desenvolvedor Full Stack especializado em .NET, Angular,TypeScript. Experiência em desenvolver aplicações web robustas, configurar pipelines de CI/CD com Azure DevOps e gerenciar projetos.
+Desenvolvedor Full Stack especializado em .NET, Angular,TypeScript. Experiência em desenvolver aplicações web robustas, configurar pipelines de CI/CD com Azure pipeline DevOps e gerenciar projetos.
 
 - 🌱 Atualmente tenho me dedicado bastante no Azure Pipeline
 - 💬 Pergunte-me sobre **.NET, Angular, TypeScript, Azure DevOps.
@@ -21,6 +21,14 @@ Desenvolvedor Full Stack especializado em .NET, Angular,TypeScript. Experiência
 - [Projeto 1](https://github.com/pablobf4/Loja_MicroServico): Projeto em MicroServiço basico para estudos.
 - [Projeto 2](https://github.com/pablobf4/Projeto-Teste): Projeto basico para estudos Angular e .Net.
 - [Projeto 3](https://github.com/seuusuario/projeto3): Descrição breve do projeto 3.
+
+
+## Certificados
+
+- AZ-900 : Microsoft Azure Fundamentals
+  - Emitido por: Microsoft
+  - https://www.credly.com/badges/48bb653b-138a-43df-b3a1-
+dac4d379f960/public_url(URL)
 
 ## Conecte-se Comigo
 
