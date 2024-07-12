@@ -29,31 +29,31 @@ Desenvolvedor Full Stack especializado em .NET, Angular,TypeScript. Experiência
 
 
   ## Linguagem:
-  • C# (visual studio 2022)
-  • PYTHON (visual code)
-  • PLSQL, (plsql developer)
-  • SQL
-  • NodeJs(JavaScript),(visual code)
-  • PHP, (visual code)
+  • C#
+  • PYTHON
+  • PLSQL
+  • NodeJs
+  • PHP
   
   ## Frameworks:
   • .NET CORE
   • ASP NET MVC
   • ASP NET WebForms
   • Windows Forms
-  • FastAPI
-  • Codeigniter
-  • Segurança:
+  • FastAPI(.py)
+  • Codeigniter(.php)
+  
+  ## Segurança:
   • Identity Server 4 duende
-  • ORM:
+  
+  ## ORM:
   • EntityFramework
   • Nhibernate
-  • SQL Alchemy/SQL Model
+  • SQL Alchemy/SQL Model(.py)
   
   ## Arquitetura:
   • MicrosServiços
   • Monolitos
-  • Mensagens:
 
   ## Mensagens
   • RabbitMQ
