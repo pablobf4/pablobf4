@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Desenvolvedor Full Stack especializado em .NET, Angular e TypeScript. Experiência em desenvolver aplicações web robustas, configurar pipelines de CI/CD com Azure DevOps e gerenciar projetos com Redmine.
+Desenvolvedor Full Stack especializado em .NET, Angular e TypeScript. Experiência em desenvolver aplicações web robustas, configurar pipelines de CI/CD com Azure DevOps e gerenciar projetos.
 
 - 🌱 Atualmente tenho me dedicado bastante no Azure Pipeline
 - 💬 Pergunte-me sobre **.NET, Angular, TypeScript, Azure DevOps, Redmine**
@@ -24,5 +24,5 @@ Desenvolvedor Full Stack especializado em .NET, Angular e TypeScript. Experiênc
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuperfil)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/seuperfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-caricio)
+
